@@ -188,6 +188,9 @@
     "/ddosi/category/:category": [
         "XinRoom"
     ],
+    "/disinfo/publications": [
+        "nczitzk"
+    ],
     "/distill/": [
         "nczitzk"
     ],
@@ -413,6 +416,9 @@
     ],
     "/github/user/followers/:user": [
         "HenryQW"
+    ],
+    "/gocn/": [
+        "AtlanCI"
     ],
     "/google/album/:id": [
         "hoilc"
@@ -1121,6 +1127,9 @@
     ],
     "/wenku8/chapter/:id": [
         "zsakvo"
+    ],
+    "/whitehouse/briefing-room/:category?": [
+        "nczitzk"
     ],
     "/whoscall/": [
         "nczitzk"
